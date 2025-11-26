@@ -1,0 +1,12 @@
+{
+  "name": "aeternus-local-api",
+  "version": "1.0.0",
+  "description": "MCP server for Aeternus local API access",
+  "servers": [
+    {
+      "type": "stdio",
+      "command": "node",
+      "args": ["mcp-server.js"]
+    }
+  ]
+}
