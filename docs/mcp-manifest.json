@@ -1,7 +1,7 @@
 {
   "name": "aeternus-local-api",
   "version": "1.0.0",
-  "description": "MCP tool for accessing Aeternus local Docker API",
+  "description": "MCP tool for accessing Aeternus local Docker API.",
   "contact_email": "dev@mybit.nl",
   "servers": [
     {
